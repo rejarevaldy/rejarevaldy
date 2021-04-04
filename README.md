@@ -1,4 +1,4 @@
-<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F9d0a12adde98a36444b36b2230e8447f%2Ftenor.gif%3Fitemid%3D9783848&f=1&nofb=1' align='right'>
+<img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Fe4a5a6ba0a4c9585114715ead95be30a%2Ftumblr_mp2heh4JzU1stb6fao1_500.gif&f=1&nofb=1' align='right'>
 
 <!-- List Of Websites-->
 [github]: https://github.com/revaldy-30
