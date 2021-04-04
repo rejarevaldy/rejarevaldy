@@ -6,7 +6,7 @@
 
 
 
-- 🥅 I’m Am: **Student from SMK 2 Banjarmasin**
+- 🥅 I’m Am: **Student From SMKN 2 Banjarmasin**
 - 🌱 I’m Currently: **Studying**
 - 🔭 2021 Goals: **Mastering Linux & Creating a Fullstack Website**
 - ⚡ Fun Fact: **I Like Rain**
