@@ -1,11 +1,16 @@
 <img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Fe4a5a6ba0a4c9585114715ead95be30a%2Ftumblr_mp2heh4JzU1stb6fao1_500.gif&f=1&nofb=1' align='right'>
 <!-- List Of Websites-->
-[github]: https://github.com/revaldy-30
-[reddit]: https://www.reddit.com/user/Revvvu
-
-<br />
 
 ### Hello! im suck at everything.
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 ### Languages and Tools:
 
