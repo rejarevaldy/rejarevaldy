@@ -4,12 +4,8 @@
 [github]: https://github.com/revaldy-30
 [reddit]: https://www.reddit.com/user/Revvvu
 
-### Hello! 
+### Hello! im suck at everything
 
-- I’m Am: **Student From SMKN 2 Banjarmasin**
-- I’m Currently: **Studying**
-- 2021 Goals: **Mastering Linux & Creating a Fullstack Website**
-- Fun Fact: **I Like Rain**
 
 <br />
 
