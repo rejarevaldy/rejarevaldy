@@ -1,21 +1,3 @@
-<img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Fe4a5a6ba0a4c9585114715ead95be30a%2Ftumblr_mp2heh4JzU1stb6fao1_500.gif&f=1&nofb=1' align='right'>
-
-<!-- List Of Websites-->
-
-[github]: https://github.com/revaldy-30
-[reddit]: https://www.reddit.com/user/Revvvu
-
-
-### Hello! im suck at everything.
-
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
