@@ -1,6 +1,6 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-      I'm Suck
+        雨が好きです    
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
