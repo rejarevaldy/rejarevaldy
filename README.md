@@ -1,6 +1,6 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-        雨が好き    
+        雨 が 好 き    
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
