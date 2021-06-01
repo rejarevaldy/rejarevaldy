@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
 [<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg" />](https://www.google.com/search?&q=Django)
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />](https://www.google.com/search?&q=Bootstrap)
+[<img align="left" alt="Bootstrap" width="26px" src="https://wpbootstrap.it/wp-content/uploads/2021/01/bs-logo.png" />](https://www.google.com/search?&q=Bootstrap)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.google.com/search?&q=CSS)
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
