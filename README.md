@@ -1,10 +1,15 @@
+
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
+<img src="http://25.media.tumblr.com/45df81c4e3ac9d8a40b25e88e6a85035/tumblr_mw2elmGuKW1s6bdkzo4_500.gif">
+<p align="center">
     <samp>
         雨 が 好 き    
     </samp>
     <br>
-</p><p align="right"><strong><samp>」</samp></strong></p>
-<br>
+</p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+
 
 
 ### Languages and Tools:
