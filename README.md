@@ -2,7 +2,7 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
 <p align="center">
     <samp> 
-        雨 に 耽 美 し て    
+        雨に耽美して    
     </samp>
     <br>
 </p>
