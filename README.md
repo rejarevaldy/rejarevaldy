@@ -1,8 +1,8 @@
 
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
 <p align="center">
-    <samp>
-        雨 が 好 き    
+    <samp> 
+        雨 に 耽 美 し て    
     </samp>
     <br>
 </p>
