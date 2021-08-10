@@ -1,10 +1,11 @@
 
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
 <p align="center">
+    <br><br>
     <samp> 
         雨に耽美して    
     </samp>
-    <br>
+    <br><br>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
