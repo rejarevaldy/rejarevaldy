@@ -2,7 +2,7 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
 <p align="center">
     <samp> 
-        雨に耽美して    
+        雨の匂いに懐かしくなるのは何でなんでしょうか。    
     </samp>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
