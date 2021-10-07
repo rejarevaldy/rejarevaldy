@@ -2,7 +2,7 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
 <p align="center">
     <samp> 
-        雨の匂いに懐かしくなるのは何でなんでしょうか。    
+         <b>雨とカプチーノ。</b>    
     </samp>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
