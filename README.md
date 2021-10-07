@@ -2,7 +2,7 @@
 <p align="left"><strong><samp><b>「</b></samp></strong></p><p align="center">
 <p align="center">
     <samp> 
-         <b>雨とカプチーノ。</b>    
+         <b>雨にも風にも負けたとしても 。</b>    
     </samp>
 </p>
 <p align="right"><strong><samp><b>」</b></samp></strong></p>
