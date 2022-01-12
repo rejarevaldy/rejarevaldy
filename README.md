@@ -4,10 +4,9 @@
     <summary><samp>About me.</samp></summary>
 
 #### GITHUB STAT :
-    
-  ![Revaldy-30 GitHub stats](https://github-readme-stats.vercel.app/api?username=revaldy-30&theme=tokyonight&show_icons=true)
-  <br>
+   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaldy-30&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  ![Revaldy-30 GitHub stats](https://github-readme-stats.vercel.app/api?username=revaldy-30&theme=tokyonight&show_icons=true)
     
 #### LANGUAGE & TOOLS : 
   
