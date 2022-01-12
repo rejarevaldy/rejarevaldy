@@ -1,7 +1,7 @@
 <p align="left"><strong><samp><b>「</b></samp></strong></p><p align="center"><p align="center"><br><samp>Now I have neither happiness nor unhappiness.<br>Everything passes.</samp><br></p><p align="right"><strong><samp><b>」</b></samp></strong></p><br>
 
 <details>
-<summary></summary>
+    <summary><samp>・・・</samp></summary>
 
 #### GITHUB STAT :
     
