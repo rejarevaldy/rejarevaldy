@@ -7,7 +7,7 @@
             self.name = 'Reja Revaldy F.';
             self.location = "Kalimantan Selatan, Indonesia";
             self.current_edu = "Vocational Higschool 2 Banjarmasin";
-            self.currently_learning = "REST API";
+            self.currently_learning = ["HTTP", "REST API"];
             self.fun_fact = "I love rain";
 	
     def Ambitions():
