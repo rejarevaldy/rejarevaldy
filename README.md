@@ -6,8 +6,8 @@
         def __init__(self):
             self.name = 'Reja Revaldy F.';
             self.location = "Kalimantan Selatan, Indonesia";
-            self.current_edu = "Vocational Higschool 2 Banjarmasin";
-            self.currently_learning = ["HTTP", "REST API"];
+            self.current_edu = "Vocational High School 2 Banjarmasin";
+            self.currently_learning = "HTTP , REST API";
             self.fun_fact = "I love rain";
 	
     def Ambitions():
