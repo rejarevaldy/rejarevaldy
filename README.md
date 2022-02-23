@@ -1,12 +1,9 @@
 <!-- Profile -->
-<p align="left"><strong>|</p>
-    <p align="left">
+<p align="left"><strong><samp>|</samp></strong></p>    <p align="left">
       <samp><br>
-            <b>
             Hello !
         <br>
             I'm Reja Revaldy F , a Student.
-            </b>
         <br>
         <br>
             <i>
@@ -14,8 +11,7 @@
 	      </i>
       </samp><br><br>
     </p>    
-<p align="left"><strong>|</p>
-
+<p align="left"><strong><samp>|</samp></strong></p>
 <br>
 
 <details align="center">
