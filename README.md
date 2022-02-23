@@ -19,7 +19,7 @@
 <br>
 	
 <details align="center">
-<summary><samp>Contact Me</samp></summary>
+<summary><samp>Contact Me.</samp></summary>
 <br>
 <a href="mailto:rejarevaldyf@gmail.com"><img src="https://img.shields.io/badge/Gmail-1f2430?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.reddit.com/user/Revvvu"><img src="https://img.shields.io/badge/Reddit-1f2430?style=for-the-badge&logo=reddit&logoColor=white"></a>
@@ -31,7 +31,7 @@
 	
 
 <details align="center">
-<summary><samp>Language & Tools</samp></summary>
+<summary><samp>Language & Tools.</samp></summary>
 <br>
 <a href="#" ><img alt="windows" src="https://img.shields.io/badge/Windows-1f2430?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#" ><img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-1f2430?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> 
@@ -48,7 +48,7 @@
 
 	
 <details>
-<summary><samp>My Statistics</samp></summary>
+<summary><samp>My Statistics.</samp></summary>
 <br>
 <p align="left">
   <a href="">
