@@ -1,16 +1,9 @@
 <!-- Profile -->
 <p align="left"><strong><samp>|</samp></strong></p>    <p align="left">
-      <samp><br>
-            Hello !
-        <br>
-            I'm Reja Revaldy F , a Student.
-        <br>
-        <br>
-            <i>
-            ~ I like rain ~
-	      </i>
-      </samp><br><br>
-    </p>    
+<samp><br>i'm Reja Revaldy F , a Student.<br>
+<i>~ I like rain ~</i>
+</samp><br><br>
+</p>    
 <p align="left"><strong><samp>|</samp></strong></p>
 <br>
 
