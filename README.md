@@ -7,11 +7,11 @@
 <p align="left"><strong><samp>|</samp></strong></p>
 <br>
 
-<details align="center">
+<details>
 <summary><samp>About me.</samp></summary>
 <br>
 	
-<details align="center">
+<details>
 <summary><samp>Contact Me.</samp></summary>
 <br>
 <a href="mailto:rejarevaldyf@gmail.com"><img src="https://img.shields.io/badge/Gmail-1f2430?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -23,7 +23,7 @@
 </details>
 	
 
-<details align="center">
+<details>
 <summary><samp>Language & Tools.</samp></summary>
 <br>
 <a href="#" ><img alt="windows" src="https://img.shields.io/badge/Windows-1f2430?style=for-the-badge&logo=windows&logoColor=white"></a>
