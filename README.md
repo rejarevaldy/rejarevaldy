@@ -14,12 +14,12 @@
 <details>
 <summary><samp>Contact Me.</samp></summary>
 <br>
-<a href="mailto:rejarevaldyf@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-1f2430?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:rejarevaldyf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1f2430?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.reddit.com/user/Revvvu" target="_blank"><img src="https://img.shields.io/badge/Reddit-1f2430?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://www.instagram.com/rev4ldy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1f2430?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/Rev99" target="_blank"><img src="https://img.shields.io/badge/Steam-1f2430?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31p533jyznrma4uzlrqkif36wm2m"  target="_blank"><img src="https://img.shields.io/badge/Spotify-1f2430?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="www.linkedin.com/in/reja-revaldy-f-30a678231" target="_blank"><img src="https://img.shields.io/badge/linkedin-1f2430?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="http:://linkedin.com/in/reja-revaldy-f-30a678231" target="_blank"><img src="https://img.shields.io/badge/linkedin-1f2430?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 	
 <br/>
