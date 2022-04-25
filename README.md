@@ -49,12 +49,12 @@
 <br>
 <p align="left">
   <a href="">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=revaldy-30&theme=ayu-mirage&show_icons=true&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=revaldy-30&theme=ayu-mirage&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rejarevaldy&theme=ayu-mirage&show_icons=true&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rejarevaldy&theme=ayu-mirage&hide_border=true" />
   </a>
 </p>
 
-![Reja Revaldy F's Activity Graph](https://activity-graph.herokuapp.com/graph?username=revaldy-30&custom_title=Reja%20Revaldy%20F's%20Contribution%20Graph&theme=xcode&bg_color=1F2430&hide_border=true&line=d2b270&point=d2b270)
+![Reja Revaldy F's Activity Graph](https://activity-graph.herokuapp.com/graph?username=rejarevaldy&custom_title=Reja%20Revaldy%20F's%20Contribution%20Graph&theme=xcode&bg_color=1F2430&hide_border=true&line=d2b270&point=d2b270)
 <br/>
 </details>
 </details>
