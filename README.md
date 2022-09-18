@@ -1,4 +1,4 @@
-# Hello, I'm Reja Revaldy F
+# Hello~
 
 My name is Reja Revaldy F, a student from Banjarmasin Polytechnic with a major in Electrical Engineering, D3 Informatics Engineering study program.<br>
 
