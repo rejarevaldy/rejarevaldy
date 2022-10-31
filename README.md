@@ -7,4 +7,4 @@ All the code I created came from a laptop using an AMD A9 processor with a Debia
 I am studying several programming languages, such as Python programming, PHP programming, Javascript programming. <br>
 Laravel and Flask as frameworks and currently using LAMP stack.<br>
 
-~ <a href="https://www.linkedin.com/in/rejarevaldyf/">LinkedIn</a><br>~ <a href="https://ctftime.org/user/144026">CTFtime</a><br>~ <a href="https://tryhackme.com/p/revvu">Tryhackme</a> 
+~ <a href="https://www.linkedin.com/in/rejarevaldyf/">LinkedIn</a><br>~ <a href="https://ctftime.org/user/144026">CTFtime</a><br>~ <a href="https://tryhackme.com/p/revvu">TryHackMe</a> 
