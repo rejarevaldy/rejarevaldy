@@ -10,6 +10,6 @@ Laravel and Flask as frameworks and currently using LAMP stack.<br>
 I love rain.<br>
 
 <p align="justify">
-  <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rejarevaldy&layout=compact&langs_count=8&theme=graywhite&show_icons=true)"/>
-  <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rejarevaldy&include_all_commits=true&count_private=true&theme=graywhite&show_icons=true)"/>
+  <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rejarevaldy&layout=compact&langs_count=8&theme=dark&show_icons=false)"/>
+  <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rejarevaldy&include_all_commits=true&count_private=true&theme=dark&show_icons=false)"/>
 </p>
