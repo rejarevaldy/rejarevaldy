@@ -1,1 +1,1 @@
-<img src="./ygss.png">
+<img src="./banner.png">
