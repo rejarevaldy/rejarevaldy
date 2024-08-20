@@ -1,5 +1,4 @@
 <img src="./banner.png">
-<hr>
 <!--START_SECTION:waka-->
 
 ```rust
