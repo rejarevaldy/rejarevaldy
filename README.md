@@ -1,4 +1,5 @@
 <img src="./banner.png">
+<details><summary> :: </summary>
 <!--START_SECTION:waka-->
 
 ```rust
@@ -12,3 +13,4 @@ Other                      8 hrs 18 mins   ██████░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</details
