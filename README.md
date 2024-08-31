@@ -14,4 +14,4 @@ Other                      9 hrs 6 mins    ///----------------------   10.79 %
 ```
 
 <!--END_SECTION:waka-->
-</details
+</details>
