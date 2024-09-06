@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2024 - To: 04 September 2024
+From: 09 August 2024 - To: 05 September 2024
 
-Total Time: 100 hrs 42 mins
+Total Time: 106 hrs 9 mins
 
-JavaScript                 30 hrs 50 mins  ///////------------------   28.09 %
-YAML                       23 hrs 53 mins  /////--------------------   21.75 %
-Python                     16 hrs 36 mins  ////---------------------   15.12 %
-Svelte                     11 hrs 34 mins  ///----------------------   10.54 %
-PHP                        10 hrs 40 mins  //-----------------------   09.72 %
+JavaScript                 36 hrs 2 mins   ////////-----------------   31.12 %
+YAML                       23 hrs 53 mins  /////--------------------   20.63 %
+Python                     16 hrs 36 mins  ////---------------------   14.34 %
+Svelte                     11 hrs 45 mins  ///----------------------   10.15 %
+PHP                        10 hrs 43 mins  //-----------------------   09.26 %
 ```
 
 <!--END_SECTION:waka-->
