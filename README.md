@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 09 August 2024 - To: 06 September 2024
+From: 09 August 2024 - To: 07 September 2024
 
-Total Time: 107 hrs 55 mins
+Total Time: 114 hrs 12 mins
 
-JavaScript                 36 hrs 3 mins   ////////-----------------   30.66 %
-YAML                       24 hrs 19 mins  /////--------------------   20.68 %
-Python                     17 hrs 17 mins  ////---------------------   14.69 %
-Svelte                     11 hrs 45 mins  //-----------------------   09.99 %
-PHP                        10 hrs 56 mins  //-----------------------   09.30 %
+JavaScript                 36 hrs 3 mins   ///////------------------   29.08 %
+YAML                       25 hrs 13 mins  /////--------------------   20.35 %
+Python                     22 hrs 39 mins  /////--------------------   18.27 %
+Svelte                     11 hrs 45 mins  //-----------------------   09.48 %
+PHP                        10 hrs 56 mins  //-----------------------   08.82 %
 ```
 
 <!--END_SECTION:waka-->
