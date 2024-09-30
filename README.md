@@ -1,6 +1,5 @@
 <img src="./banner.png">
 <details><summary> :: </summary>
-<div align="center">
 <!--START_SECTION:waka-->
 
 ```
@@ -15,5 +14,4 @@ Other                      18 hrs 5 mins   //-----------------------   08.89 %
 ```
 
 <!--END_SECTION:waka-->
-</div>
 </details>
