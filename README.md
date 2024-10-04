@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```
-From: 09 August 2024 - To: 02 October 2024
+From: 09 August 2024 - To: 03 October 2024
 
-Total Time: 199 hrs 58 mins
+Total Time: 203 hrs 50 mins
 
-Python                     83 hrs 18 mins  //////////---------------   38.08 %
-YAML                       42 hrs 51 mins  /////--------------------   19.60 %
-JavaScript                 36 hrs 4 mins   ////---------------------   16.49 %
-Other                      18 hrs 46 mins  //-----------------------   08.58 %
+Python                     86 hrs 22 mins  //////////---------------   38.74 %
+YAML                       42 hrs 51 mins  /////--------------------   19.23 %
+JavaScript                 36 hrs 4 mins   ////---------------------   16.18 %
+Other                      19 hrs 6 mins   //-----------------------   08.57 %
 ```
 
 <!--END_SECTION:waka-->
