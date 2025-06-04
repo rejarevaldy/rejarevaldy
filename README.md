@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```
-From: 09 August 2024 - To: 01 June 2025
+From: 09 August 2024 - To: 02 June 2025
 
-Total Time: 1,448 hrs 12 mins
+Total Time: 1,458 hrs 19 mins
 
-Python                     376 hrs 6 mins  //////-------------------   24.06 %
-PHP                        261 hrs 29 mins ////---------------------   16.73 %
-Markdown                   213 hrs 10 mins ///----------------------   13.64 %
-Other                      114 hrs 45 mins //-----------------------   07.34 %
+Python                     376 hrs 17 mins //////-------------------   23.92 %
+PHP                        266 hrs 9 mins  ////---------------------   16.92 %
+Markdown                   213 hrs 10 mins ///----------------------   13.55 %
+Other                      114 hrs 52 mins //-----------------------   07.30 %
 ```
 
 <!--END_SECTION:waka-->
